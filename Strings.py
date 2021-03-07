@@ -62,6 +62,9 @@ print(fruit)
 # format operator
 print("In %d years I have spotted %g %s" % (3, 0.1, "camels"))
 
+# ord to get asci char code
+print(ord("H")) # 72
+
 # ex 1
 
 test = "Sausages"
